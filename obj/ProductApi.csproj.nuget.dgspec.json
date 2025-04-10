@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\ProductApi\\ProductApi.csproj": {}
+    "C:\\Users\\ADMIN\\ProductAPI\\ProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\ProductApi\\ProductApi.csproj": {
+    "C:\\Users\\ADMIN\\ProductAPI\\ProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\ProductApi\\ProductApi.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\ProductAPI\\ProductApi.csproj",
         "projectName": "ProductApi",
-        "projectPath": "C:\\Users\\ADMIN\\ProductApi\\ProductApi.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\ProductAPI\\ProductApi.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\ProductApi\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"

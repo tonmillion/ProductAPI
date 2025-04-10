@@ -43,3 +43,12 @@ C:\Users\ADMIN\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
 C:\Users\ADMIN\ProductApi\obj\Debug\net8.0\ProductApi.pdb
 C:\Users\ADMIN\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
 C:\Users\ADMIN\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\Users\ADMIN\ProductAPI\obj\Debug\net8.0\ProductApi.sourcelink.json
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\ProductAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
